@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "MessageListener"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "A tool for monitoring message calls"
   s.homepage     = "https://github.com/TangentW/MessageListener"
 

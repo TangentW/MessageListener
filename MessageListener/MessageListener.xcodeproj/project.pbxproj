@@ -7,14 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA98AB171F999CCA00060421 /* MessageListener.h in Headers */ = {isa = PBXBuildFile; fileRef = BA98AB151F999CCA00060421 /* MessageListener.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BA98AB241F999D4700060421 /* NSObject+Listener.h in Headers */ = {isa = PBXBuildFile; fileRef = BA98AB221F999D4700060421 /* NSObject+Listener.h */; };
 		BA98AB251F999D4700060421 /* NSObject+Listener.m in Sources */ = {isa = PBXBuildFile; fileRef = BA98AB231F999D4700060421 /* NSObject+Listener.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BA98AB121F999CCA00060421 /* MessageListener.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MessageListener.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BA98AB151F999CCA00060421 /* MessageListener.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MessageListener.h; sourceTree = "<group>"; };
 		BA98AB161F999CCA00060421 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA98AB221F999D4700060421 /* NSObject+Listener.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+Listener.h"; sourceTree = "<group>"; };
 		BA98AB231F999D4700060421 /* NSObject+Listener.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+Listener.m"; sourceTree = "<group>"; };
@@ -51,7 +49,6 @@
 			isa = PBXGroup;
 			children = (
 				BA98AB1D1F999CDC00060421 /* Core */,
-				BA98AB151F999CCA00060421 /* MessageListener.h */,
 				BA98AB161F999CCA00060421 /* Info.plist */,
 			);
 			path = MessageListener;
@@ -74,7 +71,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA98AB241F999D4700060421 /* NSObject+Listener.h in Headers */,
-				BA98AB171F999CCA00060421 /* MessageListener.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
