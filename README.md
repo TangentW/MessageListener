@@ -1,5 +1,5 @@
 # MessageListener
-A tool for monitoring objc message calls.
+A tool for monitoring objc message called.
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![CocoaPods](https://img.shields.io/cocoapods/v/MessageListener.svg)](https://github.com/TangentW/MessageListener)
