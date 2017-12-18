@@ -4,6 +4,9 @@ A tool for monitoring objc message called.
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![CocoaPods](https://img.shields.io/cocoapods/v/MessageListener.svg)](https://github.com/TangentW/MessageListener)
 
+## Guide & Blog
+[Tangentw - 基于isa-swizzling实现消息监听,扩展响应式框架](http://www.jianshu.com/p/86f6059af7a0)
+
 ## Installation
 ### Carthage
 Add `MessageListener` in your `Cartfile`:
